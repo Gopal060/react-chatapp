@@ -19,7 +19,7 @@ A simple and sleek chat application built with ReactJS, Firebase, and Chakra UI 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/chat-app.git
+git clone https://github.com/Gopal060/react-chatapp.git
 cd chat-app
 ```
 
